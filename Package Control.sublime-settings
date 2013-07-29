@@ -1,0 +1,35 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"AngularJS",
+		"BracketHighlighter",
+		"ColorPicker",
+		"Comment-Snippets",
+		"DocBlockr",
+		"Emmet",
+		"Emmet Css Snippets",
+		"EncodingHelper",
+		"Git",
+		"LiveReload",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"PHP-Twig",
+		"PhpDox",
+		"PHPUnit",
+		"PHPUnit Completions",
+		"PlainTasks",
+		"Robot Framework",
+		"Sass",
+		"Smarty",
+		"String Counter",
+		"StringEncode",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Svassr",
+		"SVN",
+		"Symfony2 Snippets",
+		"Xdebug"
+	]
+}

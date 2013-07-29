@@ -1,0 +1,32 @@
+{
+   "sublimelinter_executable_map":
+    {
+        "javascript": "c:/Program Files/nodejs/node.exe",
+        "css": "c:/Program Files/nodejs/node.exe",
+        // "scss":"C:/Program Files (x86)/nodejs/node.exe",
+        // "php": "C:/xampp/php/php.exe"
+        "phpcs":"c:/xampp/php/phpcs.bat"
+    },
+
+    "sublimelinter_syntax_map":
+    {
+        "PHP": "phpcs",
+        "HTML": "phpcs"
+        // "Sass": "css"
+    },
+
+    "phpcs_options":
+    {
+        "executable": "c:/xampp/php/phpcs.bat"
+    },
+
+    "sublimelinter_delay": 1.2,
+     /*
+        Selects the way the lines with errors or warnings are marked; "outline"
+        (default) draws outline boxes around the lines, "fill" fills the lines
+        with the outline color, and "none" disables all outline styles
+        (useful if "sublimelinter_gutter_marks" is set).
+    */
+    "sublimelinter_mark_style": "outline",
+    "sublimelinter_popup_errors_on_save": true
+}
