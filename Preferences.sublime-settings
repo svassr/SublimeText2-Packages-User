@@ -3,16 +3,15 @@
 	"bold_folder_labels": true,
 	"caret_style": "phase",
 	"color_scheme": "Packages/PHP-Twig/Extras/Themes/Monokai Dark.tmTheme",
-	"convert_tabs_to_spaces_on_save": true,
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
-	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"SVN",
 		"Xdebug",
 		"ColorPicker",
 		"SublimeCodeIntel",
@@ -31,6 +30,5 @@
 	"show_tab_close_buttons": false,
 	"tab_size": 4,
 	"translate_tabs_to_spaces": true,
-	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }
